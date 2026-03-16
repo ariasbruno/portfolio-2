@@ -11,6 +11,7 @@ Este portfolio tuvo una vida muy corta. Aunque fue terminado técnicamente, deci
 A pesar de ser reemplazado, este proyecto incluye:
 - **Diseños de Casos de Estudio**: Implementaciones visuales detalladas para proyectos.
 - **Micro-interacciones**: Sistema de cursor personalizado y transiciones de página suaves.
+- **Hero Backgrounds**: Fondos de patrones de puntos (dots) personalizados para proyectos como **RC Commander**, **El Impostor** e **ImpoStar**.
 
 ## 🛠️ Stack Tecnológico
 - **Core**: React 19 + TypeScript.
